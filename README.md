@@ -9,7 +9,7 @@ I allways wanted to move humanity a bit further and help people. As a programmer
 - Founder and lead developer of [MojeStravovani.cz](https://mojestravovani.cz), helping hundreds of Czechs struggling to loose weight.
 - [Flutter](flutter.dev) consultant
 
-## My skills 📜
+## 📜 My skills 
 - JavaScript and TypeScript (Vue.js, React, React Native, next.js, nest.js and much more.)
 - Flutter
 - HTML, CSS
