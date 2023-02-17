@@ -1,5 +1,5 @@
 # Hi everyone :wave:
-I'm Dominik Vít and I am a developer from the Czech Republic. I've been a programmer for half of my 22 years on this planet. I do a lot, like really a lot of mobile and web development, most often in React and React Native. Currently working on Web3 stuff in Rust 🦄
+I'm Dominik Vít and I am a developer from the Czech Republic. I've been a programmer for half of my 23 years on this planet. I do a lot, like really a lot of mobile and web development, most often in React and React Native. Currently working on Web3 stuff in Rust 🦄
 
 ### ⚡ One line that describes me best? 
 I allways wanted to move humanity a bit further and help people. As a programmer, I can do that.
